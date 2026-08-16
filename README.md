@@ -1,5 +1,3 @@
-# power_bi_dashboard
-Interactive Power BI dashboard demonstrating data analysis, visualization and KPI reporting.
 # Power BI Sales Dashboard
 
 A basic interactive sales dashboard developed using Microsoft Power BI to explore sales performance across categories, markets, countries, cities and shipping modes.
